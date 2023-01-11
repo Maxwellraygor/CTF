@@ -1,13 +1,20 @@
-﻿# Hack The Box reports https://www.hackthebox.com/
-Welcome.  These reports are from my learning experiences with hack the box.  The reports are intended for view only by my professors and hiring managers as a example of both my technical and communication skills.  They are protected and will only be viewable with a passphrase.
+# CTF reports 
+Welcome.  These reports are from my learning experiences with various CTFs.  The reports are intended for view only by my professors and hiring managers as a example of both my technical and communication skills.  They are protected and will only be viewable with a passphrase.
 
 
 # Hack The Box Resources
 Here are links to information and tools that I have found useful while learning:
 LSE	https://github.com/diego-treitos/linux-smart-enumeration
+
 LinPEAS	https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS
+
 p0wnyshell	https://github.com/flozz/p0wny-shell
+
 Reverse shells	https://www.revshells.com/
+
 Subdomain list	https://github.com/danielmiessler/SecLists/blob/master/Discovery/DNS/bitquark-subdomains-top100000.txt
+
 Hash cracking	https://crackstation.net/
+
 Javascript deobfuscator	https://deobfuscate.io/
+
