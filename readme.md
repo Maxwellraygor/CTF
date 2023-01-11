@@ -24,5 +24,5 @@ Javascript deobfuscator	https://deobfuscate.io/
 
 
 <br/><br/><br/><br/>
-CTFs general prohibit the open publication of solutions.
+CTFs generally prohibit the open publication of solutions.
 Reports are encrypted using https://robinmoisson.github.io/staticrypt/
