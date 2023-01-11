@@ -22,3 +22,7 @@ Hash cracking	https://crackstation.net/
 
 Javascript deobfuscator	https://deobfuscate.io/
 
+
+## CTF Report Encryption
+CTFs general prohibit the open publication of solutions.
+Reports are encrypted using https://robinmoisson.github.io/staticrypt/
