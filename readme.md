@@ -2,6 +2,7 @@
 Welcome.  These reports are from my learning experiences with various CTFs.  The reports are intended for view only by my professors and hiring managers as a example of both my technical and communication skills.  They are protected and will only be viewable with a passphrase.
 
 <a href="https://htmlpreview.github.io/?https://github.com/Maxwellraygor/CTF/blob/main/htb-photobomb-protected.html" target="_blank">[htb] Photobomb</a>
+<br/>
 <a href="https://htmlpreview.github.io/?https://github.com/Maxwellraygor/CTF/blob/main/htb-precious-protected.html" target="_blank">[htb] Precious</a>
    
 <br/><br/>
