@@ -4,7 +4,8 @@ Welcome.  These reports are from my learning experiences with various CTFs.  The
 <a href="https://htmlpreview.github.io/?https://github.com/Maxwellraygor/CTF/blob/main/htb-photobomb-protected.html" target="_blank">[htb] Photobomb</a>
 <br/>
 <a href="https://htmlpreview.github.io/?https://github.com/Maxwellraygor/CTF/blob/main/htb-precious-protected.html" target="_blank">[htb] Precious</a>
-   
+<br/>
+<a href="https://htmlpreview.github.io/?https://github.com/Maxwellraygor/CTF/blob/main/htb-soccer-protected.html" target="_blank">[htb] Soccer</a>   
 <br/><br/>
 
 # CTF Resources
